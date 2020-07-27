@@ -11,5 +11,16 @@ puts phrase
 puts phrase
 puts phrase
 puts phrase
-say_"Hello World"_ten_times
-phrase
+def say_hello_ten_times
+phrase "Hello World"
+put phrase
+put phrase
+put phrase
+put phrase
+put phrase
+put phrase
+put phrase
+put phrase
+put phrase
+put phrase
+end
